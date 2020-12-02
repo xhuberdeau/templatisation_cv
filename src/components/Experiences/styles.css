@@ -1,0 +1,18 @@
+.titre {
+    text-transform: uppercase;
+    color: #68c6af;
+    font-weight: bold;
+}
+
+.poste {
+    color: dimgrey;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 0.8em;
+}
+
+.environnement {
+    color: grey;
+    font-style: italic;
+    font-weight: bold;
+}

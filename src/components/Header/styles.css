@@ -1,0 +1,30 @@
+.header {
+    height: 200px;
+    background: #68c6af;
+    color: white;
+    text-transform: uppercase;
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+    font-size: 2em;
+}
+
+.seniority {
+    margin-top: auto;
+}
+
+.additional-info-container {
+    display: flex;
+    width: 100%;
+    font-size: 2em;
+    justify-content: space-between;
+}
+
+.addittional-info-col {
+    display: flex;
+    flex-direction: column;
+}
+
+.key-skills-container {
+    display: flex;
+}

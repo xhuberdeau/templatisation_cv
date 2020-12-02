@@ -1,0 +1,88 @@
+{
+  "candidat": {
+    "nom_complet": "Antoine ALBERT",
+    "poste": "Ingénieur système / devops senior",
+    "experience": "10 ans",
+    "tarif": "650",
+    "disponibilite": "04/01/2021",
+    "tests": {
+      "PHP SF": "75%",
+      "Vue": "63%"
+    }
+  },
+  "competences_clefs": ["Linux", "Iti", "AWS"],
+  "competences_techniques": [
+    {
+      "libelle": "Système d'exploitation",
+      "valeur": "Windows, Unix / Linux (Debian, Ubuntu)"
+    },
+    {
+      "libelle": "Base de données",
+      "valeur": "SQL Server, MySQL, PostgreSQL, Redis"
+    },
+    {
+      "libelle": "Virtualisation",
+      "valeur": "Vcenter, ESX, Vmware OpenVZ, Xen"
+    },
+    {
+      "libelle": "Cloud",
+      "valeur": "AWS, Azure"
+    },
+    {
+      "libelle": "Programmation",
+      "valeur": "PHP, JS, Node, Angular, React, Bootstrap, C++"
+    }
+  ],
+  "experiences": [
+    {
+      "titre": "MAIF - squad de dec 2019 à ce jour",
+      "poste": "Ingénieur Système DevOps",
+      "projet": "Hébergement d'application conteneurisé sur Rancher et RedHat Openshift Container Platform",
+      "contexte": "Garantir le bon fonctionnement des applications des applications...",
+      "description": "<strong>RUN :</strong><br /><ul><li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li><li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy</li><li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy</li></ul><strong>BUILD :</strong><ul><li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy</li><li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy</li><li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy</li></ul>",
+      "environnement": "Windows, UNIX, Load Balancer, Prometheus, Ansible"
+    },
+    {
+      "titre": "PROBAYES - de sept 2018 a sept 2019",
+      "poste": "Consultant DevOps AWS",
+      "projet": "NLP (Natural Language Processing) & Robot Conversationnel (ChatBot)",
+      "contexte": "Accompagner les équipes de ProbaYes, filiale de la Poste, dans la mise en place de ...",
+      "description": "<ul><li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li><li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy</li><li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy</li><li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy</li><li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy</li><li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy</li></ul>",
+      "environnement": "AWS (EC2, S3, IAM, RDS)"
+    },
+    {
+      "titre": "FEDASO ORONE CROUP - mai 2011 - juillet 2014",
+      "poste": "Technicien d'exploitation (Linux / Windows)",
+      "projet": "",
+      "contexte": "",
+      "description": "<ul><li>Lorem Ipsum is simply dummy text of the printing and typesetting industry</li><li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy</li><li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy</li><li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy</li><li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy</li><li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy</li></ul>",
+      "environnement": "Windows 2003 / 2008, Linux Ubuntu, Athic, CFT / Getway, Nagios / Centreon, GLPI"
+    }
+  ],
+  "certifications": [
+    {
+      "annee": "2019",
+      "libelle": "AWS Solutions Architect Certified"
+    },
+    {
+      "annee": "2018",
+      "libelle": "AWS DevopsNavigate / AWS SecurityFundamentals/ AWS TCO & Cloud Economics"
+    },
+    {
+      "annee": "2014",
+      "libelle": "Linux"
+    }
+  ],
+  "formation": [
+    {
+      "annee": "2013 / 2014",
+      "libelle": "Université Hassan1 Faculté des sciences et Techniques de Settat",
+      "description": "Licence professionnelle en Conception et Développement d'Applications"
+    },
+    {
+      "annee": "2008 / 2010",
+      "libelle": "BTS en réseaux et systèmes informatiques NTIC 2",
+      "description": "Technicien Spécialisé en réseaux systèmes informatique"
+    }
+  ]
+}

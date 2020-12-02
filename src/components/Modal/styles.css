@@ -1,0 +1,25 @@
+.backdrop {
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    z-index: 100;
+    left: 0;
+    top: 0;
+    background-color: rgba(0,0,0,0.5);
+}
+
+.modal {
+    position: fixed;
+    z-index: 500;
+    background-color: white;
+    height: 95%;
+    width: 80%;
+    border-radius: 3px;
+    box-shadow: 0 5px 15px 0 rgba(67, 86, 100, 0.2);
+    padding: 16px;
+    top: 1%;
+    left: 10%;
+    transition: all 0.3s ease-out;
+    overflow: auto;
+}
+
